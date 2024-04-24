@@ -7,7 +7,7 @@ function Nav() {
        <nav className='w-full h-[10vh] bg-blue-300 flex items-center justify-center gap-4 px-5'>
         <Link to="/">
           home
-        </Link>
+        </Link> 
         <NavLink
          className={(e)=>{
                 return [
